@@ -1,9 +1,9 @@
 ## Car Price Prediction
 
-######Description
+###### Description
 The purpose of this project is to predict the price of second-hand cars, based on their various features, the machine learning model used to do this prediction is Random forest regressor. The dataset used is publicly available in kaggle and is also available in this repository. The project includes Feature selection, exploratory data analysis and building a machine learning model to predict the price of cars, further this model is deployed as a web application where user input is obtained using drop down menus and text boxes.
 
-######The tools and skills required for this project include:
+###### The tools and skills required for this project include:
 -Python
 -HTML
 -Flask
@@ -14,6 +14,6 @@ The project doesn't require any installation of sorts, Untitled.ipnyb is the mai
 
 **To run the app, download all the files into a single direcory, navigate to the directory on anaconda prompt and type the following "python app.py"
 
-######Credits:
+###### Credits:
 tutorial by @krihnaik06
 https://github.com/krishnaik06/Car-Price-Prediction
